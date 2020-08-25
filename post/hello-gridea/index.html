@@ -3,10 +3,10 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Hello Gridea | Snooper の BLOG</title>
-<link rel="shortcut icon" href="https://snooper-y.github.io/snooper.github.io/favicon.ico?v=1598347942412">
+<link rel="shortcut icon" href="https://www.escaped.cn/favicon.ico?v=1598348824854">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://snooper-y.github.io/snooper.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Hello Gridea | Snooper の BLOG - Atom Feed" href="https://snooper-y.github.io/snooper.github.io/atom.xml">
+<link rel="stylesheet" href="https://www.escaped.cn/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Hello Gridea | Snooper の BLOG - Atom Feed" href="https://www.escaped.cn/atom.xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
@@ -27,8 +27,8 @@ Gridea 主页
     <div class="main">
       <div class="main-content">
         <div class="site-header">
-  <a href="https://snooper-y.github.io/snooper.github.io">
-  <img class="avatar" src="https://snooper-y.github.io/snooper.github.io/images/avatar.png?v=1598347942412" alt="">
+  <a href="https://www.escaped.cn">
+  <img class="avatar" src="https://www.escaped.cn/images/avatar.png?v=1598348824854" alt="">
   </a>
   <h1 class="site-title">
     Snooper の BLOG
@@ -91,13 +91,13 @@ Gridea 主页
                 2 min read
               </span>
               
-                <a href="https://snooper-y.github.io/snooper.github.io/tag/WdFYT3Uh9/" class="post-tag">
+                <a href="https://www.escaped.cn/tag/WdFYT3Uh9/" class="post-tag">
                   # Gridea
                 </a>
               
             </div>
             
-              <img class="post-feature-image" src="https://snooper-y.github.io/snooper.github.io/post-images/hello-gridea.png" alt="">
+              <img class="post-feature-image" src="https://www.escaped.cn/post-images/hello-gridea.png" alt="">
             
             <div class="post-content-wrapper">
               <div class="post-content">
@@ -141,10 +141,36 @@ Gridea 主页
         
 
         
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '5df293292ebe1a5b00ee',
+    clientSecret: '2cef9c5112fe0e411689c136834de1609855da4a',
+    repo: 'gridea blog comment',
+    owner: 'Snooper-Y',
+    admin: ['Snooper-Y'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
 
         <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> 
-  <a class="rss" href="https://snooper-y.github.io/snooper.github.io/atom.xml" target="_blank">
+  <a class="rss" href="https://www.escaped.cn/atom.xml" target="_blank">
     <i class="ri-rss-line"></i> RSS
   </a>
 </div>
