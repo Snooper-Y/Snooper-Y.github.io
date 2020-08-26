@@ -1823,15 +1823,15 @@ code::-webkit-scrollbar-thumb:hover {
 }
 
         .gt-bg-theme-color-first {
-          background: #ffffff!important;
-        }
-        
-        .gt-bg-theme-color-second {
           background: #FED844!important;
         }
         
-        .gt-bg-content-color-first {
+        .gt-bg-theme-color-second {
           background: #212529!important;
+        }
+        
+        .gt-bg-content-color-first {
+          background: #f8f9fa!important;
         }
         
         .gt-bg-content-color-second {
@@ -1847,15 +1847,15 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-first {
-          color: #ffffff!important;
-        }
-        
-        .gt-c-theme-color-second {
           color: #FED844!important;
         }
         
-        .gt-c-content-color-first {
+        .gt-c-theme-color-second {
           color: #212529!important;
+        }
+        
+        .gt-c-content-color-first {
+          color: #f8f9fa!important;
         }
         
         .gt-c-content-color-second {
@@ -1871,7 +1871,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         body {
-          color: #212529!important;
+          color: #f8f9fa!important;
         }
         
         a {
@@ -1880,20 +1880,20 @@ code::-webkit-scrollbar-thumb:hover {
         
         .post-content h1 {
           display: inline-block;
-          color: #212529!important;
+          color: #f8f9fa!important;
           position: relative!important;
           background: linear-gradient(180deg, transparent 75%, RGBA(255,107,107,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
-          color: #212529!important;
+          color: #f8f9fa!important;
           position: relative!important;
           background: linear-gradient(180deg, transparent 75%, RGBA(255,107,107,0.4) 0)!important;
         }
         
         .gt-a-link {
-          color: #212529!important;
+          color: #f8f9fa!important;
           position: relative!important;
           background: linear-gradient(180deg, transparent 75%, RGBA(255,107,107,0.4) 0)!important;
         }
@@ -1916,7 +1916,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .search-input {
-          color: #212529!important;
-          background-color: #FED844!important;
+          color: #f8f9fa!important;
+          background-color: #212529!important;
         }
          
