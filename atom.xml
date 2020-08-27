@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escaped.cn</id>
     <title>Snooper</title>
-    <updated>2020-08-27T15:46:50.101Z</updated>
+    <updated>2020-08-27T15:56:56.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.escaped.cn"/>
     <link rel="self" href="https://www.escaped.cn/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://www.escaped.cn/images/avatar.png</logo>
     <icon>https://www.escaped.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Snooper</rights>
+    <entry>
+        <title type="html"><![CDATA[就在刚刚，遇到了Gridea的一个坑]]></title>
+        <id>https://www.escaped.cn/post/xianiaol/</id>
+        <link href="https://www.escaped.cn/post/xianiaol/">
+        </link>
+        <updated>2020-08-27T15:51:54.000Z</updated>
+        <summary type="html"><![CDATA[<p>卸载重装都没有用🙁你敢信？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>卸载重装都没有用🙁你敢信？</p>
+<!-- more -->
+<p>刚刚写着写着博文，保存草稿，想着准备发布文章，然后哦豁，gridea客户端里面啥子都没有了。刚刚写的文章和之前的文章，啥子都空了。<br>
+这个时候不要慌，进入gridea本地的资源文件夹，在posts里面找到刚刚写的文章，把它备份出来，然后删除了，之后重启客户端就恢复正常了。<br>
+吓尿了吓尿了😭</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年，教你如何在Coding上白嫖一个Gridea博客]]></title>
         <id>https://www.escaped.cn/post/buildgridea/</id>
