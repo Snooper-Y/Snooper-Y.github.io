@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escaped.cn</id>
     <title>Snooper</title>
-    <updated>2020-08-27T15:41:15.645Z</updated>
+    <updated>2020-08-27T15:43:47.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.escaped.cn"/>
     <link rel="self" href="https://www.escaped.cn/atom.xml"/>
@@ -128,12 +128,12 @@ valine设置参考教程https://kveln.cn/post/qE678A4ce/</p>
 <p>6、 返回<strong>var/moblie/Library/PassesCards</strong>，删除对应的“<strong>.cache</strong>” 文件夹（这个是缓存文件，不删除修改的卡面不会刷新出来）</p>
 <p>7、 “wallet钱包”杀后台再重新打开就行了</p>
 <h2 id="展示">展示</h2>
-<p><img src="https://www.escaped.cn/post-images/1598542438945.jpg" alt="" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1598542452742.jpg" alt="" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1598542459059.jpg" alt="" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1598542466361.jpg" alt="" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1598542472295.jpg" alt="" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1598542478035.jpg" alt="" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://www.escaped.cn/post-images/1598542438945.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://www.escaped.cn/post-images/1598542452742.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://www.escaped.cn/post-images/1598542459059.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://www.escaped.cn/post-images/1598542466361.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://www.escaped.cn/post-images/1598542472295.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://www.escaped.cn/post-images/1598542478035.jpg" alt="" loading="lazy"></figure>
 <h2 id="资源地址">资源地址</h2>
 <p>链接: https://pan.baidu.com/s/1OngcAaIM_wYTMCBAN3Aqzg 提取码: 1234</p>
 ]]></content>
