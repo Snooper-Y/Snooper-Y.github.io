@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escaped.cn</id>
     <title>Snooper</title>
-    <updated>2020-08-27T15:36:59.025Z</updated>
+    <updated>2020-08-27T15:38:33.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.escaped.cn"/>
     <link rel="self" href="https://www.escaped.cn/atom.xml"/>
@@ -107,6 +107,35 @@ https://www.bilibili.com/video/BV1dV41167HE/</p>
 <h2 id="valine评论系统">Valine评论系统</h2>
 <p>你可以使用默认的gitalk，或者valine<br>
 valine设置参考教程https://kveln.cn/post/qE678A4ce/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越狱了，折腾吧！替换apple pay公交卡、银行卡封面]]></title>
+        <id>https://www.escaped.cn/post/Applepay/</id>
+        <link href="https://www.escaped.cn/post/Applepay/">
+        </link>
+        <updated>2020-07-27T15:31:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>既然越狱了，不妨我们来美化一下钱包</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>既然越狱了，不妨我们来美化一下钱包</p>
+<!-- more -->
+<h2 id="教程">教程</h2>
+<p>1、手机越狱，安装<strong>filza</strong></p>
+<p>2、自备卡面图片</p>
+<p>3、打开filza，定位<strong>var/moblie/Library/Passes/Cards</strong>(文件夹内有很多以“.pkpass”和“.cache”结尾的文件夹)</p>
+<p>4、打开“<strong>.pkpass</strong>”文件夹找到要修改的卡</p>
+<p>5、 用PS好的图片替换“<strong>cardBackgroundCombined@2x.png</strong>”这个文件（注意分辨率是1536X969）</p>
+<p>6、 返回<strong>var/moblie/Library/PassesCards</strong>，删除对应的“<strong>.cache</strong>” 文件夹（这个是缓存文件，不删除修改的卡面不会刷新出来）</p>
+<p>7、 “wallet钱包”杀后台再重新打开就行了</p>
+<h2 id="展示">展示</h2>
+<p><img src="https://www.escaped.cn/post-images/1598542438945.jpg" alt="" loading="lazy"><br>
+<img src="https://www.escaped.cn/post-images/1598542452742.jpg" alt="" loading="lazy"><br>
+<img src="https://www.escaped.cn/post-images/1598542459059.jpg" alt="" loading="lazy"><br>
+<img src="https://www.escaped.cn/post-images/1598542466361.jpg" alt="" loading="lazy"><br>
+<img src="https://www.escaped.cn/post-images/1598542472295.jpg" alt="" loading="lazy"><br>
+<img src="https://www.escaped.cn/post-images/1598542478035.jpg" alt="" loading="lazy"></p>
+<h2 id="资源地址">资源地址</h2>
+<p>链接: https://pan.baidu.com/s/1OngcAaIM_wYTMCBAN3Aqzg 提取码: 1234</p>
 ]]></content>
     </entry>
     <entry>
