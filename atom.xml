@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.escaped.cn</id>
     <title>Snooper</title>
-    <updated>2020-08-28T05:36:02.362Z</updated>
+    <updated>2020-08-28T07:56:21.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.escaped.cn"/>
     <link rel="self" href="https://www.escaped.cn/atom.xml"/>
@@ -10,6 +10,73 @@
     <logo>https://www.escaped.cn/images/avatar.png</logo>
     <icon>https://www.escaped.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Snooper</rights>
+    <entry>
+        <title type="html"><![CDATA[分享自己在iOS13上用的插件源和插件]]></title>
+        <id>https://www.escaped.cn/post/cydia/</id>
+        <link href="https://www.escaped.cn/post/cydia/">
+        </link>
+        <updated>2020-08-28T07:08:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>🤒不是我吹，如果没有特殊其他要求，<strong>电话助手</strong>一个管够</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🤒不是我吹，如果没有特殊其他要求，<strong>电话助手</strong>一个管够</p>
+<!-- more -->
+<h2 id="越狱源">越狱源</h2>
+<ul>
+<li>
+<p>HackYouriPhone<br>
+http://repo.hackyouriphone.org/</p>
+</li>
+<li>
+<p>Zebra斑马源<br>
+https://getzbra.com/repo/</p>
+</li>
+<li>
+<p>小苹果源<br>
+https://apt.cydiabc.top/</p>
+</li>
+<li>
+<p>知网少年<br>
+https://apt.iphoneba.cn/</p>
+</li>
+<li>
+<p>电话助手官方源<br>
+https://apt.htv123.com/</p>
+</li>
+<li>
+<p>Netskao源<br>
+https://repo.initnil.com</p>
+</li>
+<li>
+<p>HackCN<br>
+http://apt.hackcn.net</p>
+</li>
+<li>
+<p>HI客源<br>
+http://repo.qqtlr.com/</p>
+</li>
+</ul>
+<h2 id="插件列表">插件列表</h2>
+<h3 id="1-电话助手-付费软件20元">1.  电话助手 （付费软件20元）</h3>
+<p>电话助手完美搭配原生UI和加强原生App功能 拥有来电窗口,电话录音,T9拨号键盘,来去电归属地,骚扰拦截,黑名单拦截等强势功能，状态栏时间网速显示 啥啥都有</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/08/28/nTgadpFmOErGLks.jpg" alt="电话助手.jpeg" loading="lazy"></figure>
+<h3 id="2-qq净化">2. QQ净化</h3>
+<p>可以关闭qq上一些乱七八糟、花里胡哨的东西，还可开启闪图和消息防撤回等等</p>
+<h3 id="3-微信净化">3. 微信净化</h3>
+<p>可以开启微信防撤回、开启微信Callkit、还可以开启朋友圈30秒视频等等</p>
+<h3 id="4-shadow屏蔽越狱检测">4. shadow屏蔽越狱检测</h3>
+<p>一款用来屏蔽越狱检测的插件</p>
+<h3 id="5-titan视频画中画">5. Titan视频画中画</h3>
+<p>可以在iOS13上开启画中画功能，自带的Safari浏览器、b站、vvebo等都支持画中画的功能了</p>
+<h3 id="6-flex-3">6. Flex 3</h3>
+<p>Flex是一款强大的越狱插件，我主要用来屏蔽一些广告<br>
+分享一个VIP账号<br>
+<code>sundasheng521@qq.com 密码7758521a</code></p>
+<h3 id="7-filza-file-文件管理">7. Filza File 文件管理</h3>
+<p>比苹果自带的文件管理器不知道高到哪里去了</p>
+<h3 id="8-app-store-应用降级">8. APP Store++ 应用降级</h3>
+<p>可以把你想降级的软件降级到任何版本，而且还可以屏蔽升级提示</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就在刚刚，遇到了Gridea的一个坑]]></title>
         <id>https://www.escaped.cn/post/xianiaol/</id>
