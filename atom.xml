@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.escaped.cn</id>
+    <id>https://snooper-y.github.io/grideablog/</id>
     <title>Snooper</title>
-    <updated>2021-07-08T08:30:12.775Z</updated>
+    <updated>2021-07-08T10:18:46.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.escaped.cn"/>
-    <link rel="self" href="https://www.escaped.cn/atom.xml"/>
+    <link rel="alternate" href="https://snooper-y.github.io/grideablog/"/>
+    <link rel="self" href="https://snooper-y.github.io/grideablog/atom.xml"/>
     <subtitle>做一个恰到好处的人</subtitle>
-    <logo>https://www.escaped.cn/images/avatar.png</logo>
-    <icon>https://www.escaped.cn/favicon.ico</icon>
+    <logo>https://snooper-y.github.io/grideablog/images/avatar.png</logo>
+    <icon>https://snooper-y.github.io/grideablog/favicon.ico</icon>
     <rights>All rights reserved 2021, Snooper</rights>
     <entry>
         <title type="html"><![CDATA[SKetch UI--Amazfit GTS dark theme]]></title>
-        <id>https://www.escaped.cn/post/sketch-ui-amazfit-gts-dark-theme/</id>
-        <link href="https://www.escaped.cn/post/sketch-ui-amazfit-gts-dark-theme/">
+        <id>https://snooper-y.github.io/grideablog/post/sketch-ui-amazfit-gts-dark-theme/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/sketch-ui-amazfit-gts-dark-theme/">
         </link>
         <updated>2021-02-16T07:29:45.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://www.escaped.cn/post-images/1613460644529.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://snooper-y.github.io/grideablog//post-images/1613460644529.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-11-14 上海]]></title>
-        <id>https://www.escaped.cn/post/2020-11-14-shang-hai/</id>
-        <link href="https://www.escaped.cn/post/2020-11-14-shang-hai/">
+        <id>https://snooper-y.github.io/grideablog/post/2020-11-14-shang-hai/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/2020-11-14-shang-hai/">
         </link>
         <updated>2020-12-06T07:03:11.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://www.escaped.cn/post-images/1607238237061.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://www.escaped.cn/post-images/1607238241935.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://www.escaped.cn/post-images/1607238360242.png" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://www.escaped.cn/post-images/1607238366230.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://snooper-y.github.io/grideablog//post-images/1607238237061.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://snooper-y.github.io/grideablog//post-images/1607238241935.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://snooper-y.github.io/grideablog//post-images/1607238360242.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://snooper-y.github.io/grideablog//post-images/1607238366230.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上海10-06]]></title>
-        <id>https://www.escaped.cn/post/shang-hai-10-06/</id>
-        <link href="https://www.escaped.cn/post/shang-hai-10-06/">
+        <id>https://snooper-y.github.io/grideablog/post/shang-hai-10-06/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/shang-hai-10-06/">
         </link>
         <updated>2020-10-10T06:27:57.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/10/10/nOkGszhHpLqm2JF.jpg" alt="1602311465933.jpg" loading="lazy"><br>
 <img src="https://i.loli.net/2020/10/10/EFl7DUsgqbfkHLc.jpg" alt="1602311470316.jpg" loading="lazy"><br>
 <img src="https://i.loli.net/2020/10/10/T5DbwNSP1igLqOZ.jpg" alt="1602311458339.jpg" loading="lazy"><br>
 <img src="https://i.loli.net/2020/10/10/MwYG93QZn6Psx7C.jpg" alt="160231145839.jpg" loading="lazy"><br>
-<img src="https://www.escaped.cn/post-images/1602312847775.jpg" alt="" loading="lazy"></p>
+<img src="https://snooper-y.github.io/grideablog//post-images/1602312847775.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[来上海找工作了，咕咕咕～]]></title>
-        <id>https://www.escaped.cn/post/shanghaiqibao/</id>
-        <link href="https://www.escaped.cn/post/shanghaiqibao/">
+        <id>https://snooper-y.github.io/grideablog/post/shanghaiqibao/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/shanghaiqibao/">
         </link>
         <updated>2020-09-15T02:19:48.000Z</updated>
         <content type="html"><![CDATA[<h2 id="iphone-x-直出">IPhone X 直出</h2>
-<figure data-type="image" tabindex="1"><img src="https://www.escaped.cn/post-images/1600136527191.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://www.escaped.cn/post-images/1600136537133.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://www.escaped.cn/post-images/1600136544485.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://snooper-y.github.io/grideablog//post-images/1600136527191.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://snooper-y.github.io/grideablog//post-images/1600136537133.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://snooper-y.github.io/grideablog//post-images/1600136544485.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[分享自己在iOS13上用的插件源和插件]]></title>
-        <id>https://www.escaped.cn/post/cydia/</id>
-        <link href="https://www.escaped.cn/post/cydia/">
+        <id>https://snooper-y.github.io/grideablog/post/cydia/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/cydia/">
         </link>
         <updated>2020-08-28T07:08:12.000Z</updated>
         <summary type="html"><![CDATA[<p>🤒不是我吹，如果没有特殊其他要求，<strong>电话助手</strong>一个管够</p>
@@ -126,8 +126,8 @@ http://repo.qqtlr.com/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[就在刚刚，遇到了Gridea的一个坑]]></title>
-        <id>https://www.escaped.cn/post/xianiaol/</id>
-        <link href="https://www.escaped.cn/post/xianiaol/">
+        <id>https://snooper-y.github.io/grideablog/post/xianiaol/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/xianiaol/">
         </link>
         <updated>2020-08-27T15:51:54.000Z</updated>
         <summary type="html"><![CDATA[<p>卸载重装都没有用🙁你敢信？</p>
@@ -141,8 +141,8 @@ http://repo.qqtlr.com/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020年，教你如何在Coding上白嫖一个Gridea博客]]></title>
-        <id>https://www.escaped.cn/post/buildgridea/</id>
-        <link href="https://www.escaped.cn/post/buildgridea/">
+        <id>https://snooper-y.github.io/grideablog/post/buildgridea/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/buildgridea/">
         </link>
         <updated>2020-08-27T02:17:53.000Z</updated>
         <summary type="html"><![CDATA[<p>😮 都2020年了还不会整博客嘛？来，我教你！🙌</p>
@@ -165,29 +165,29 @@ Gridea 是一个静态博客写作客户端<br>
 官网：https://coding.net/</p>
 <h2 id="step1-在coding上部署静态网站">step1 在Coding上部署静态网站</h2>
 <p>在coding上注册账号，然后<strong>创建项目</strong>，选择项目模板，我选择得是<strong>DevOps 项目</strong><br>
-<img src="https://www.escaped.cn/post-images/1598498324757.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598498324757.png" alt="" loading="lazy"><br>
 项目新建之后，填写项目信息，这里比较重要得是<strong>项目名称</strong><br>
-<img src="https://www.escaped.cn/post-images/1598498590205.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598498590205.png" alt="" loading="lazy"><br>
 新建完我们进入项目页，此时我们需要以此点击以下操作来进行静态pages部署<br>
 首先点击左下角得<strong>项目设置</strong><br>
-<img src="https://www.escaped.cn/post-images/1598503955335.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598503955335.png" alt="" loading="lazy"><br>
 在<strong>功能开关</strong>里找到<strong>持续部署</strong>打开它<br>
-<img src="https://www.escaped.cn/post-images/1598504081217.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598504081217.png" alt="" loading="lazy"><br>
 然后我们返回项目页，在<strong>持续部署</strong>中找到<strong>静态网站</strong>，进入之后点击立即发布静态网站（需要进行账号实名认证）<br>
-<img src="https://www.escaped.cn/post-images/1598504331990.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598504331990.png" alt="" loading="lazy"><br>
 创建完静态网站后，点击<strong>立即部署</strong>按钮开始进行网站部署。<br>
 部署完成后就可以访问默认的coding page页面了<br>
-<img src="https://www.escaped.cn/post-images/1598504462247.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598504462247.png" alt="" loading="lazy"><br>
 如果自己有域名，可以点击右上角的<strong>设置</strong>，进行<strong>自定义域名</strong><br>
 域名解析需要用<strong>CNAME</strong>记录指向你的coding页面地址  xxxxxx.coding-pages.com<br>
-<img src="https://www.escaped.cn/post-images/1598504728994.png" alt="" loading="lazy"></p>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598504728994.png" alt="" loading="lazy"></p>
 <h2 id="step2-设置gridea">step2  设置Gridea</h2>
 <p>先去gridea官网下载对应平台的客户端<br>
-<img src="https://www.escaped.cn/post-images/1598505012927.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598505012927.png" alt="" loading="lazy"><br>
 进入客户端之后点击<strong>远程</strong><br>
-<img src="https://www.escaped.cn/post-images/1598505177796.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598505177796.png" alt="" loading="lazy"><br>
 下面进行配置<br>
-<img src="https://www.escaped.cn/post-images/1598505207993.png" alt="" loading="lazy"></p>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598505207993.png" alt="" loading="lazy"></p>
 <ul>
 <li>
 <p>域名<br>
@@ -198,9 +198,9 @@ Gridea 是一个静态博客写作客户端<br>
 <p>仓库名称（<strong>一定要注意！注意！</strong>）<br>
 这里一定要填公开仓库的名称<br>
 点击<strong>代码仓库</strong>，选<strong>访问设置</strong>，然后点击<strong>开源访问地址</strong><br>
-<img src="https://www.escaped.cn/post-images/1598505704636.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598505704636.png" alt="" loading="lazy"><br>
 现在得到的这个才是仓库名称<br>
-<img src="https://www.escaped.cn/post-images/1598505825395.png" alt="" loading="lazy"></p>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598505825395.png" alt="" loading="lazy"></p>
 </li>
 <li>
 <p>分支<br>
@@ -209,7 +209,7 @@ Gridea 是一个静态博客写作客户端<br>
 <li>
 <p>仓库用户名<br>
 <strong>项目首页</strong>-<strong>代码仓库</strong>-<strong>仓库设置</strong>-<strong>仓库名称</strong>，如图框选的就行用户名<br>
-<img src="https://www.escaped.cn/post-images/1598506086140.png" alt="" loading="lazy"></p>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598506086140.png" alt="" loading="lazy"></p>
 </li>
 <li>
 <p>邮箱<br>
@@ -218,9 +218,9 @@ Gridea 是一个静态博客写作客户端<br>
 <li>
 <p>令牌用户名和令牌<br>
 在coding，点击右上角头像，进入<strong>个人账户设置</strong>，点击<strong>访问令牌</strong>，然后<strong>新建令牌</strong><br>
-<img src="https://www.escaped.cn/post-images/1598506286357.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598506286357.png" alt="" loading="lazy"><br>
 这里只需要勾选第一个 <strong>project:depot</strong><br>
-<img src="https://www.escaped.cn/post-images/1598506419297.png" alt="" loading="lazy"><br>
+<img src="https://snooper-y.github.io/grideablog//post-images/1598506419297.png" alt="" loading="lazy"><br>
 输入coding的账户密码就可生成令牌了，然后把令牌和令牌名填入gridea。</p>
 </li>
 <li>
@@ -240,8 +240,8 @@ valine设置参考教程https://kveln.cn/post/qE678A4ce/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[越狱了，折腾吧！替换apple pay公交卡、银行卡封面]]></title>
-        <id>https://www.escaped.cn/post/Applepay/</id>
-        <link href="https://www.escaped.cn/post/Applepay/">
+        <id>https://snooper-y.github.io/grideablog/post/Applepay/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/Applepay/">
         </link>
         <updated>2020-07-27T15:31:06.000Z</updated>
         <summary type="html"><![CDATA[<p>既然越狱了，不妨我们来美化一下钱包</p>
@@ -269,8 +269,8 @@ valine设置参考教程https://kveln.cn/post/qE678A4ce/</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.escaped.cn/post/hello-gridea/</id>
-        <link href="https://www.escaped.cn/post/hello-gridea/">
+        <id>https://snooper-y.github.io/grideablog/post/hello-gridea/</id>
+        <link href="https://snooper-y.github.io/grideablog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
